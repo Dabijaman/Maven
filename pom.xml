@@ -33,7 +33,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib</classpathPrefix>
-                <mainClass>project.App</mainClass>
+                <mainClass>Maven.App</mainClass>
               </manifest>
             </archive>
           </configuration>
